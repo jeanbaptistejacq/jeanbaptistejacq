@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Jean-Baptiste Jacq
-#### Data Pro
+#### Data Passionate
+
+I display Data Analysis Project on this Github !
+
 ![heart mug](https://github.com/jeanbaptistejacq/jeanbaptistejacq/assets/80902643/63cb4f69-78a9-4bc5-b7ea-d96a9c62c0db)
 
-
-I'm JB from France. I display Data Analysis Project on this Github !
-
-Skills: Python/ SQL/ Power BI/ Tableau/ AWS
 
 
 

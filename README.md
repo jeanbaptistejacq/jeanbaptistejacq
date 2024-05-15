@@ -1,9 +1,7 @@
-### Hi there 👋, I'm Jean-Baptiste Jacq
-#### Data Passionate
-
-I display Data Analysis Projects on this Github !
-
-<img src="https://github.com/jeanbaptistejacq/jeanbaptistejacq/assets/80902643/63cb4f69-78a9-4bc5-b7ea-d96a9c62c0db" alt="heart mug" width="500" height="500">
+<h1 align="center">Welcome 👋, I'm Jean-Baptiste Jacq</h1>
+<h3 align="center">I display Data Analysis Projects on this Github !</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanbaptistejacq&label=Profile%20views&color=0e75b6&style=flat" alt="jeanbaptistejacq"/> </p>
+<img align="right" src="https://github.com/jeanbaptistejacq/jeanbaptistejacq/assets/80902643/63cb4f69-78a9-4bc5-b7ea-d96a9c62c0db" alt="heart mug" width="350" height="350">
 
 
 

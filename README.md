@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Jean-Baptiste Jacq
 #### Data Passionate
 
-I display Data Analysis Project on this Github !
+I display Data Analysis Projects on this Github !
 
-![heart mug](https://github.com/jeanbaptistejacq/jeanbaptistejacq/assets/80902643/63cb4f69-78a9-4bc5-b7ea-d96a9c62c0db)
+<img src="https://github.com/jeanbaptistejacq/jeanbaptistejacq/assets/80902643/63cb4f69-78a9-4bc5-b7ea-d96a9c62c0db" alt="heart mug" width="500" height="500">
 
 
 

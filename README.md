@@ -23,8 +23,9 @@
 </p>
 
 <p align="left">
-To open links in a new tab, please right-click and select "Open link in new tab" or "Open link in new window". Github does not include the target attribute because of security vulnerability ;) .
-</p> 
+To open links in a new tab, please right-click and select <code>"Open link in new tab"</code> or <code>"Open link in new window"</code>. Github does not include the <code>target</code> attribute because of security vulnerability 😉.
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -12,16 +12,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/jeanbaptistejacq" onclick="window.open('https://github.com/jeanbaptistejacq', '_blank')">
+<a href="https://github.com/jeanbaptistejacq">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
-<a href="https://www.linkedin.com/in/jean-baptiste-jacq-b947241b3/" onclick="window.open('https://www.linkedin.com/in/jean-baptiste-jacq-b947241b3/', '_blank')">
+<a href="https://www.linkedin.com/in/jean-baptiste-jacq-b947241b3/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
 </a>
-<a href="https://jeanbaptistejacq.github.io/JBJacq.github.io/index.html#" onclick="window.open('https://jeanbaptistejacq.github.io/JBJacq.github.io/index.html#', '_blank')">
+<a href="https://jeanbaptistejacq.github.io/JBJacq.github.io/index.html#">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40">
 </a>
 </p>
 
+<p align="left">
+To open links in a new tab, please right-click and select "Open link in new tab" or "Open link in new window". Github does not include the target attribute because of security vulnerability ;) .
+</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
